@@ -4,7 +4,7 @@ let baseDir = process.cwd();
 
 let typesFolder = `${baseDir}/../@types`;
 
-let targetPath = `${baseDir}/../@types/we-app`;
+let targetPath = `${baseDir}/../@types/wx`;
 
 if (!fs.existsSync(typesFolder)) {
     fs.mkdirSync(typesFolder);
