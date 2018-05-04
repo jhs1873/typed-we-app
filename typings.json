@@ -1,5 +1,5 @@
 {
-    "name": "we-app",
+    "name": "wx",
     "main": "we-app.d.ts",
     "homepage": "https://mp.weixin.qq.com/debug/wxadoc/dev/index.html",
     "global": true,
